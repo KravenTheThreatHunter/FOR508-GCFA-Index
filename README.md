@@ -1,5 +1,5 @@
 # FOR508-GCFA-Index
-My GCFA exam index containing essential information within the Index itself. This allowed me to pass the exam without even opening the books for most questions.
+My GCFA exam index containing essential information within the Index itself. This allowed me to pass the exam without needing to refer to the textbooks for most questions.
 
 ## Table of Contents
 
